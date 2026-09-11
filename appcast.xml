@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>insomniac</title>
+    <description>insomniac updates</description>
+    <item>
+      <title>insomniac 0.1.0</title>
+      <pubDate>Fri, 11 Sep 2026 02:34:15 +0000</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>insomniac 0.1.0 — first release</description>
+      <enclosure url="https://github.com/MotionComplex/insomniac-releases/releases/download/v0.1.0/insomniac-0.1.0.dmg" sparkle:edSignature="RrX2MeXXxrn67Q8Nwykf/lTpxlE8jCM+RBHXZi9o7CPWNYMRjDifuJVtDK0PHM3Sx6nSzp6lWtfBGte91MkGDg==" length="2569221" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
