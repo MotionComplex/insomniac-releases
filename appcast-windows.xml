@@ -9,19 +9,7 @@
       <sparkle:version>0.1.1</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <sparkle:os>windows</sparkle:os>
-      <description>Merge feat/W16-dark-control-theming: dark-mode theming for stock WPF controls
-
-Owner-reported: WPF's built-in Button/RadioButton/CheckBox/ComboBox/ToggleButton
-render in the classic light Aero theme regardless of OS dark mode, so they sat
-as light-gray chrome on insomniac's dark glass flyout; Until... was clipped.
-Adds Controls.xaml - implicit app-scoped styles deriving chrome from each
-control's Foreground (correct in both themes, re-brushes on reopen), an opaque
-dropdown ground, and a segmented duration picker that fits Until... at 320px.
-Amber stays lamp-only; switches monochrome; rounded, no chamfer. 189 tests
-green, CI 34764462916. Review: Approve; selected-pill opacity nit applied.
-Final look sign-off is the owner's.
-
-Co-Authored-By: Claude Opus 4.8 &lt;noreply@anthropic.com&gt;</description>
+      <description>Dark-mode polish. The tray flyout's buttons, duration picker, checkboxes and dropdowns now match Windows dark mode instead of showing light-grey chrome, and the "Until…" option is no longer clipped. Same features as 0.1.0.</description>
       <enclosure url="https://github.com/MotionComplex/insomniac-releases/releases/download/win-v0.1.1/insomniac-setup-0.1.1.exe" sparkle:version="0.1.1" sparkle:edSignature="mMDmu7rcBthDd8PozVu2ZBWB3Jn5i/QpCJHEVGdAHx1FEl/GB7Jjr8Nac71CaV4VKCbzHy4FtPmPCUscQjm2Bg==" length="56216010" type="application/octet-stream" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART" />
     </item>
     <item>
