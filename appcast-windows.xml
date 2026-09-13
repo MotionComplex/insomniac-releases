@@ -9,13 +9,7 @@
       <sparkle:version>0.1.0</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:os>windows</sparkle:os>
-      <description>chore(autopilot): Windows run complete - final state, ledger totals, owner report
-
-16/16 units merged, 0 blocked-investigate, main CI green. Publish and the
-physical checks (UIPI, relog, laptop unplug, looks, SmartScreen) stay
-owner-gated with exact steps staged.
-
-Co-Authored-By: Claude Fable 5 &lt;noreply@anthropic.com&gt;</description>
+      <description>First Windows release. insomniac keeps you active in presence-aware apps like Teams, Slack and Zoom by resetting the system idle timer with an invisible key event, and can also keep the display and system awake. Per-user install, no admin rights. v0.1 is not code-signed: SmartScreen will warn - choose "More info", then "Run anyway".</description>
       <enclosure url="https://github.com/MotionComplex/insomniac-releases/releases/download/win-v0.1.0/insomniac-setup-0.1.0.exe" sparkle:version="0.1.0" sparkle:edSignature="ay4b4hRUEBv5kgE6fsM6xz6kNtGVvLaZtlKgwCxhaAVU7eDDyCbZSzycu5wZm8er60P0m8NyvGG8DUXOghpnBQ==" length="56194610" type="application/octet-stream" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART" />
     </item>
   </channel>
